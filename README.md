@@ -1,1 +1,1 @@
-# curso_python_alura_primeira_aplicacao
+# Repositório do curso de Git da Comunidade Dev Completo
