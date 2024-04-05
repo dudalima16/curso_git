@@ -1,0 +1,30 @@
+BRANCH - Ramificações do Cógido Original (cópias de um cod original)
+
+MERGE - Junção do código da sua branch com o código da master
+
+
+	git add - vai add os arquivos que quer enviar nessa modificação
+	git commit - vai juntas todos os arquivos que vc enviou (através do git add)
+
+depois git 'PUSH' vai enviar esses arquivos
+PUSH - 'empurra'(enviar) os commits para o github (remote)
+
+
+PULL - 'puxa' as atualizações que estão do GITHUB e trazer p meu pc (local)
+
+CLONE -
+	Cópia local de um repositório remoto (github)
+	Consegue alterar o repo principal
+	Somente com permissão
+
+Fork - 
+	Cópia de um repositório remoto (github)
+	Consegue fazer modificações SEM AFETAR o repo principal 
+
+
+Pull Request (PR) - 
+	
+	MR - Merge Request (GITLAB)
+	Modificações da branch são enviadas para aprovação para serem mergeadase ficar no código principal
+	Bem comum no dia a dia dos Devs
+	Nos PRs que fazemos o code review
